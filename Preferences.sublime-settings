@@ -1,0 +1,23 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/CodeIndeed (SL).tmTheme",
+	"copy_with_empty_selection": true,
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
