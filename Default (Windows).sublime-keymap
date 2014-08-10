@@ -1,0 +1,9 @@
+[
+{ "keys": ["shift+s"], "command": "prompt_save_as" },
+{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+{ "keys": ["ctrl+k", "ctrl+f"], "command": "reindent" },
+{ "keys": ["ctrl+k", "ctrl+d"], "command": "code_formatter" },
+{ "keys": ["ctrl+shift+f4"], "command": "close_all" },
+{ "keys": ["ctrl+shift+h"], "command": "reindent" },
+{ "keys": ["f12"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+]
